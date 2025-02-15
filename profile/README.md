@@ -1,12 +1,29 @@
-## Hi there 👋
+# OmniSet
 
-<!--
+A modern environment setup tool for Debian-based Linux distributions. One command to set up your perfect environment.
 
-**Here are some ideas to get you started:**
+```bash
+wget -qO- https://omniset.org/install | bash
+```
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Available Configurations
+
+- Developer
+- Content Creator
+- Gamer
+- Student
+- Designer
+- Data Scientist
+
+## Supported Platforms
+
+Works on most Debian-based Linux distributions including Ubuntu, Debian, Linux Mint, Elementary OS, Pop!_OS, and Zorin OS.
+
+## Links
+
+- [Website](https://omniset.org)
+- [Discord](https://discord.gg/nk5HAAgQQH)
+
+---
+
+<p align="center">Your environment, elevated. One command away.</p>
